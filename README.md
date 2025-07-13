@@ -77,10 +77,7 @@ npm run build
 
 ## 🌐 Deployment
 
-Optimized for deployment on:
 - **Netlify** - Drag & drop build folder
-- **Vercel** - Git integration with auto-deploy
-- **GitHub Pages** - Static hosting with custom domain support
 
 ---
 
